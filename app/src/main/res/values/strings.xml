@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CVBuilderApp</string>
+
+    <string name="login">login</string>
+        <string name="enter_email">Enter your email here…</string>
+        <string name="enter_password">Enter your password here…</string>
 </resources>
