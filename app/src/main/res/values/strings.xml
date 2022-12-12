@@ -2,6 +2,47 @@
     <string name="app_name">CVBuilderApp</string>
 
     <string name="login">login</string>
-        <string name="enter_email">Enter your email here…</string>
-        <string name="enter_password">Enter your password here…</string>
+    <string name="enter_email">Enter your email here…</string>
+    <string name="enter_password">Enter your password here…</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home">Home</string>
+        <string name="about_me">About Me</string>
+        <string name="work">Work</string>
+        <string name="contact">Contact</string>
+
+        <string name="cv">CV</string>
+
+        <string name="add">Add</string>
+
+        <string name="whatsapp">WhatsApp</string>
+        <string name="gmail">Gmail</string>
+        <string name="telegram">Telegram</string>
+        <string name="linkedin">LinkedIn</string>
+        <string name="cover_photo">Cover Photo</string>
+
+        <string name="name">Anjana Sharma</string>
+        <string name="position">Software Engineer</string>
+
+        <string name="career_note">Career Note</string>
+        <string name="career_note_desc"><b>Completed</b> on-campus studies and currently taking distance education courses to complete a Master\'s Degree in Computer Science.</string>
+        <string name="work_experience">Work Experience</string>
+        <string name="work_experience_desc"><b>Language: </b>Java, JavaScript \n<b>Frameworks/web: </b>SpringBoot, Hibernate, JDBC \n<b>Databases: </b>Oracle, MySQL, MongoDB, MSSQL\n<b>Tools: </b>Intellij IDE, Visual Studio Code, Maven, GitHub, GitLab \n</string>
+
+        <string name="about_me_desc">Skilled Full Stack Engineer with over 4 years of experience in software development primarily in the Healthcare domain. </string>
+
+        <string name="education">Education</string>
+        <string name="my_college">My College</string>
+        <string name="certification">Certification</string>
+
+        <string name="my_contacts">My Contacts</string>
+
+        <string name="information_to_share">
+            Name: Anjana Sharma
+            LinkedIn Profile: www.linkedin.com/in/er-anjana/
+        </string>
+
+        <string name="email">ansharma@miu.edu</string>
+        <string name="linkedin_profile">www.linkedin.com/in/er-anjana/</string>
+        <string name="github_profile">https://github.com/anzana</string>
 </resources>
